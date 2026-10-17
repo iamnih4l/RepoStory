@@ -18,6 +18,16 @@ export const metadata: Metadata = {
     'Turn complex GitHub repositories into interactive, animated, picture-book-style visual stories. Discover what they do, explore key concepts, and learn how to run them.',
   keywords: ['github', 'learning', 'open source', 'visual story', 'code explanation', 'ai', 'rag'],
   authors: [{ name: 'RepoStory' }],
+  icons: {
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
+    apple: [
+      { url: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+  },
 };
 
 export default function RootLayout({
