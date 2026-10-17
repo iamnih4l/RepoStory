@@ -5,6 +5,7 @@
 
 > *"Paste a repository. Watch its architecture unfold in 3D. Understand what matters. Learn how to use it."*
 
+[![Live Demo](https://img.shields.io/badge/Live_App-repostorys.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://repostorys.vercel.app/)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/iamnih4l/RepoStory)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.4.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-19.0.0-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
@@ -15,7 +16,7 @@
 
 <br />
 
-[**Explore Live Demo**](http://localhost:3001) • [**1-Click Deploy**](#-1-click-deploy-to-vercel) • [**Architecture**](#%EF%B8%8F-system-architecture) • [**BYOK Guide**](#-zero-cost-hybrid-model--byok) • [**Documentation**](#-api-specification)
+[**🌐 Open Live App**](https://repostorys.vercel.app/) • [**📦 1-Click Deploy**](#-1-click-deploy-to-vercel) • [**🏗️ Architecture**](#%EF%B8%8F-system-architecture) • [**🔑 BYOK Guide**](#-zero-cost-hybrid-model--byok) • [**📡 Documentation**](#-api-specification)
 
 </div>
 
@@ -39,6 +40,9 @@
 ---
 
 ## 💡 Why RepoStory?
+
+> [!TIP]
+> 🚀 **Live Production Deployment:** Experience RepoStory immediately in your browser at **[repostorys.vercel.app](https://repostorys.vercel.app/)**!
 
 Developers and learners discover remarkable open-source projects every day, yet struggle to understand or adopt them due to wall-of-text documentation, complex folder structures, and assumed prior domain knowledge.
 
@@ -256,7 +260,9 @@ Open [http://localhost:3000](http://localhost:3000) (or the port specified in te
 
 ## 📦 1-Click Deploy to Vercel
 
-Deploy your own hosted instance of RepoStory to Vercel with a single click:
+The official production deployment is live at **[https://repostorys.vercel.app](https://repostorys.vercel.app)**.
+
+You can also deploy your own independent instance of RepoStory to Vercel with a single click:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/iamnih4l/RepoStory)
 
